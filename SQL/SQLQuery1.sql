@@ -7,4 +7,4 @@ sifra int,
 naziv varchar(50),
 masa int,
 velicina int
-)
+);
