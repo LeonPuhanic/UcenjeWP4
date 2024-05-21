@@ -10,11 +10,7 @@ use specifikacijeNaoruzanja
 create table Proizvodac(
 sifra int not null primary key,
 naziv varchar(100) not null,
-CEO varchar(100),
 datumosnovanja datetime not null,
-proizvodioruzje bit,
-proizvodimetke bit,
-proizvodioptike bit
 );
 
 create table Metci(
