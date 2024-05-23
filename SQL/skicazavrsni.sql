@@ -49,7 +49,7 @@ potrebnabaterija bit not null,
 proizvodac int foreign key references proizvodaci(sifra) not null
 );
 
-create table Korisnik(
+create table Korisnici(
 sifra int not null primary key identity,
 username varchar(20) not null,
 email varchar(40) not null,
