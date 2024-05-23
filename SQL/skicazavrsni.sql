@@ -8,13 +8,13 @@ go
 use specifikacijeNaoruzanja
 
 create table Proizvodaci(
-sifra int not null primary key,
+sifra int not null primary key identity,
 naziv varchar(100) not null,
 datumosnovanja datetime not null,
 );
 
 create table Metci(
-sifra int not null primary key,
+sifra int not null primary key identity,
 naziv varchar(60) not null,
 cijena decimal(10,2),
 tezinazrna decimal(10,2),
@@ -24,7 +24,7 @@ proizvodac int foreign key references proizvodaci(sifra) not null
 );
 
 create table Oruzja(
-sifra int not null primary key,
+sifra int not null primary key identity,
 naziv varchar(60) not null,
 kalibar int not null foreign key references metci(sifra),
 cijena decimal(10,2),
@@ -40,7 +40,7 @@ tippaljbe varchar(20) not null
 );
 
 create table Optike(
-sifra int not null primary key,
+sifra int not null primary key identity,
 naziv varchar(60) not null,
 cijena decimal(10,2),
 magnifikacija decimal(10,2),
