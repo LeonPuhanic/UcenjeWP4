@@ -48,3 +48,12 @@ tezina decimal(10,2) not null,
 potrebnabaterija bit not null,
 proizvodac int foreign key references proizvodaci(sifra) not null
 );
+
+create table Korisnik(
+sifra int not null primary key identity,
+username varchar(20) not null,
+email varchar(40) not null,
+pass varchar(20) not null,
+favOruzje int foreign key references Oruzja(sifra),
+favOptika int foreign key references Optike(sifra)
+);
