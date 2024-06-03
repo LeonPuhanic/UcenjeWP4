@@ -42,9 +42,9 @@ create table Optike(
 sifra int not null primary key identity,
 naziv varchar(60) not null,
 cijena decimal(10,2),
-magnifikacija decimal(10,2),
-tezina decimal(10,2) not null,
-potrebnabaterija bit not null,
+magnifikacija varchar(10) not null,
+tezina int,
+potrebnabaterija bit,
 proizvodac int foreign key references proizvodaci(sifra) not null
 );
 
@@ -66,7 +66,9 @@ insert into Proizvodaci (naziv, datumosnovanja) values
 ('Heckler & Koch', '1949.'),
 ('FN Herstal', '1889.'),
 ('Colt Manufacturing Company', '1855.'),
-('KBP Instrument Design Bureau', '1927.');
+('KBP Instrument Design Bureau', '1927.'),
+('SIG Sauer', '1976.'),
+('Teledyne FLIR', '1978.');
 
 insert into Metci (naziv, proizvodac) values
 ('7.62x51mm NATO', 6),
@@ -81,6 +83,17 @@ insert into Oruzja (naziv, kalibar, tezina, proizvodac, datumproizvodnje, tippal
 ('ShAK-12', 3, 6000, 3, '2010', 'Automatic'),
 ('Streyr AUG 5.56x45', 4, 3600, 4, '1977', 'Automatic'),
 ('H&K HK416', 4, 3120, 5, '2004', 'Automatic');
+
+insert into Optike (naziv, magnifikacija, proizvodac) values
+('Romeo4T', '1x', 9),
+('Tango6', '5-30x', 9),
+('ThermoSight RS64', '2-16x', 10);
+
+
+select o.naziv as Optika, o.magnifikacija as Magnifikacija, p.naziv as Proizvodac
+from Optike o
+inner join Proizvodaci p on o.proizvodac = p.sifra;
+
 
 select w.naziv as Oruzje, w.tezina as Tezina, w.tippaljbe as TipPaljbe, b.naziv as Kalibar, p.naziv as Proizvodac
 from Oruzja w
