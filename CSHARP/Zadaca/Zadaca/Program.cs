@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
+﻿using System;
 
 
 Console.WriteLine("Unesite 2 broja za stvaranje tablice: ");
@@ -9,19 +7,54 @@ while (true)
 {
     try
     {
-        int broj1 = int.Parse(Console.ReadLine());
-        int broj2 = int.Parse(Console.ReadLine());
-        if (broj1 > 0 && broj1 < 100)
+        int n = int.Parse(Console.ReadLine());
+        int m = int.Parse(Console.ReadLine());
+        if (n > 0 && n < 100)
         {
-            if (broj2 > 0 && broj2 < 100)
+            if (m > 0 && m < 100)
             {
-                for (int j = 1; j <= broj2; j++)
+                int[,] matrix = new int[n, m];
+
+                int value = 1;
+
+                int minRow = 0, maxRow = n - 1;
+                int minCol = 0, maxCol = m - 1;
+
+                while (value <= n * m)
                 {
-                    for (int i = 1; i <= broj1; i++)
+                    for (int i = maxCol; i >= minCol && value <= n * m; i--)
                     {
-                        Console.Write("[" + i + "] ");
+                        matrix[maxRow, i] = value++;
                     }
-                    Console.WriteLine("");
+                    maxRow--;
+
+                    for (int i = maxRow; i >= minRow && value <= n * m; i--)
+                    {
+                        matrix[i, minCol] = value++;
+                    }
+                    minCol++;
+
+                    for (int i = minCol; i <= maxCol && value <= n * m; i++)
+                    {
+                        matrix[minRow, i] = value++;
+                    }
+                    minRow++;
+
+                    for (int i = minRow; i <= maxRow && value <= n * m; i++)
+                    {
+                        matrix[i, maxCol] = value++;
+                    }
+                    maxCol--;
+                }
+
+                for (int i = 0; i < n; i++)
+                {
+                    for (int j = 0; j < m; j++)
+                    {
+
+                        Console.Write("[ " + matrix[i, j] + " ] ");
+                    }
+                    Console.WriteLine();
                 }
                 break;
             }
