@@ -1,0 +1,15 @@
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.AssemblyInfoInputs.cache
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.AssemblyInfo.cs
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.sourcelink.json
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\bin\Debug\net8.0\LjetnaAplikacija.exe
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\bin\Debug\net8.0\LjetnaAplikacija.deps.json
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\bin\Debug\net8.0\LjetnaAplikacija.runtimeconfig.json
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\bin\Debug\net8.0\LjetnaAplikacija.dll
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\bin\Debug\net8.0\LjetnaAplikacija.pdb
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.dll
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\refint\LjetnaAplikacija.dll
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.pdb
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.genruntimeconfig.cache
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\ref\LjetnaAplikacija.dll
