@@ -9,6 +9,11 @@ namespace LjetnaAplikacija.Model
     internal class Proizvodac:Entitet
     {
         public string? Naziv { get; set; }
-        public DateTime DatumOsnovanja { get; set; }
+        public int? GodinaOsnovanja { get; set; }
+
+        public override string ToString()
+        {
+            return "Naziv: " + Naziv + ", Godina osnovanja: " + GodinaOsnovanja;
+        }
     }
 }

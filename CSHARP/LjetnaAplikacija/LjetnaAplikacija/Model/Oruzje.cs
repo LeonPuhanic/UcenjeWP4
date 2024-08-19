@@ -9,13 +9,16 @@ namespace LjetnaAplikacija.Model
     internal class Oruzje:Entitet
     {
         public string? Naziv { get; set; }
-        public Kalibar? Kalibar { get; set; }
+        public string? Kalibar { get; set; }
         public string? Cijena { get; set; }
         public int? Tezina { get; set; }
-        public int? DuzinaCijevi { get; set; }
-        public int? BrzinaPaljbe { get; set; }
         public int? KapacitetSpremnika { get; set; }
         public int? GodinaProizvodnje { get; set; }
-        public string? TipPaljbe { get; set; }
+        public Proizvodac? Proizvodac { get; set; }
+
+        public override string ToString()
+        {
+            return "Naziv: " + Naziv + ", Težina (g): " + Tezina + ", Kalibar: " + Kalibar + ", Cijena ($): " + Cijena + ", God. Proizvodnje: " + GodinaProizvodnje+", Proizvodac: "+Proizvodac.Naziv;
+        }
     }
 }

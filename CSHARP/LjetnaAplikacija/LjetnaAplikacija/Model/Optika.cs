@@ -14,5 +14,9 @@ namespace LjetnaAplikacija.Model
         public int? Tezina { get; set; }
         public Proizvodac? Proizvodac { get; set; }
 
+        public override string ToString()
+        {
+            return "Naziv: " + Naziv + ", Težina (g): " + Tezina + ", Cijena ($): " + Cijena + ", Magnifikacija: " + Magnifikacija;
+        }
     }
 }

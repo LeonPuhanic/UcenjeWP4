@@ -8,11 +8,18 @@ namespace LjetnaAplikacija
 {
     internal class Izbornik
     {
-        public ObradaOruzje ObradaOruzje { get; set; } = new ObradaOruzje();
+        public ObradaOruzje ObradaOruzje { get; set; }
+        public ObradaOptika ObradaOptika { get; set; }
+
+        public ObradaProizvodac ObradaProizvodac { get; set; }
 
 
         public Izbornik()
         {
+            Pomocno.DEV = true;
+            ObradaProizvodac = new ObradaProizvodac();
+            ObradaOptika = new ObradaOptika();
+            ObradaOruzje = new ObradaOruzje(this);
             Menu();
             PrikaziIzbornik();
         }
@@ -32,7 +39,23 @@ namespace LjetnaAplikacija
             switch(Pomocno.UcitajRasponBroja("Vas odabir: ", 1, 4))
             {
                 case 1:
+                    Console.Clear();
                     ObradaOruzje.PrikaziIzbornik();
+                    Menu();
+                    PrikaziIzbornik();
+                    break;
+
+                case 2:
+                    Console.Clear();
+                    ObradaOptika.PrikaziIzbornik();
+                    Menu();
+                    PrikaziIzbornik();
+                    break;
+
+                case 3:
+                    Console.Clear();
+                    ObradaProizvodac.PrikaziIzbornik();
+                    Menu();
                     PrikaziIzbornik();
                     break;
 
