@@ -19,10 +19,10 @@ namespace LjetnaAplikacija
 
         private void UcitajDEV()
         {
-            Proizvodaci.Add(new() { Naziv = "Heckler & Koch" });
-            Proizvodaci.Add(new() { Naziv = "KRISS" });
-            Proizvodaci.Add(new() { Naziv = "FN Herstal" });
-            Proizvodaci.Add(new() { Naziv = "Izmash" });
+            Proizvodaci.Add(new() { Naziv = "Heckler & Koch", GodinaOsnovanja = 1949});
+            Proizvodaci.Add(new() { Naziv = "KRISS", GodinaOsnovanja = 2002});
+            Proizvodaci.Add(new() { Naziv = "FN Herstal", GodinaOsnovanja = 1889});
+            Proizvodaci.Add(new() { Naziv = "Izmash", GodinaOsnovanja = 1975});
         }
 
         public void PrikaziIzbornik()
@@ -54,9 +54,69 @@ namespace LjetnaAplikacija
                     Console.WriteLine("* +1 Proizvođač dodan");
                     PrikaziIzbornik();
                     break;
+
+                case 3:
+                    Console.Clear();
+                    PromjenaProizvodaca();
+                    break;
+
+                case 4:
+                    Console.Clear();
+                    IzbrisiProizvodaca();
+                    break;
+
                 case 5:
                     Console.Clear();
                     break;
+            }
+        }
+
+        private void IzbrisiProizvodaca()
+        {
+            if (Proizvodaci.Count != 0)
+            {
+                PrikaziProizvodace();
+                var odabrani = Proizvodaci[Pomocno.UcitajRasponBroja("Odaberi redni broj proizvođaća: ", 1, Proizvodaci.Count) - 1];
+                if (Pomocno.UcitajBool("Potvrdi brisanje proizvođaća " + odabrani.Naziv + " (DA/NE): ", "da"))
+                {
+                    Proizvodaci.Remove(odabrani);
+                    Console.Clear();
+                    Console.WriteLine("* 1+ Proizvođać izbrisan *");
+                    PrikaziIzbornik();
+                }
+                else
+                {
+                    Console.Clear();
+                    PrikaziIzbornik();
+                }
+            }
+            else
+            {
+                Console.Clear();
+                Console.WriteLine("* Nema proizvođaća za obrisati! *");
+                PrikaziIzbornik();
+            }
+        }
+
+
+        private void PromjenaProizvodaca()
+        {
+            if (Proizvodaci.Count != 0)
+            {
+                PrikaziProizvodace();
+                var odabrani = Proizvodaci[Pomocno.UcitajRasponBroja("Unesi redni broj proizvođaća: ", 1, Proizvodaci.Count) - 1];
+                odabrani.Sifra = Pomocno.UcitajRasponBroja("Unesi šifru proizvođaća: ", 1, int.MaxValue);
+                odabrani.Naziv = Pomocno.UcitajString("Unesi naziv proizvođaća: ", 40, true);
+                odabrani.GodinaOsnovanja = Pomocno.UcitajRasponBroja("Unesi godinu osnovanja proizvođaća: ", 1, 2100);
+                Console.Clear();
+                Console.WriteLine("* +1 proizvođać promjenjen *");
+                PrikaziIzbornik();
+            }
+            else
+            {
+                Console.Clear();
+                Console.WriteLine("* Nema proizvođaća za promjeniti! *");
+                PrikaziIzbornik();
             }
         }
 
@@ -67,7 +127,7 @@ namespace LjetnaAplikacija
             int redni = 0;
             foreach (var p in Proizvodaci)
             {
-                Console.WriteLine(++redni+". "+p.Naziv);
+                Console.WriteLine(++redni+". ("+p.GodinaOsnovanja+") "+p.Naziv);
             }
             Console.WriteLine("========--");
         }

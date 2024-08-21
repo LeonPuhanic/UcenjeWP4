@@ -13,6 +13,7 @@ namespace LjetnaAplikacija.Model
         public string? Magnifikacija { get; set; }
         public int? Tezina { get; set; }
         public Proizvodac? Proizvodac { get; set; }
+        public object Izbornik { get; internal set; }
 
         public override string ToString()
         {

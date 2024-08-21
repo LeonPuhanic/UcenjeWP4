@@ -18,7 +18,7 @@ namespace LjetnaAplikacija
         {
             Pomocno.DEV = true;
             ObradaProizvodac = new ObradaProizvodac();
-            ObradaOptika = new ObradaOptika();
+            ObradaOptika = new ObradaOptika(this);
             ObradaOruzje = new ObradaOruzje(this);
             Menu();
             PrikaziIzbornik();

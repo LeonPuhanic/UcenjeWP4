@@ -10,6 +10,13 @@ namespace LjetnaAplikacija
     {
         public static bool DEV = false;
 
+        internal static bool UcitajBool(string poruka, string trueValue)
+        {
+            Console.Write(poruka);
+            return Console.ReadLine().Trim().ToLower() == trueValue;
+        }
+
+
 
         internal static string UcitajDecimalni(string poruka, int min, float max)
         {
