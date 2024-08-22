@@ -1,8 +1,14 @@
-﻿using System;
+﻿
+using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
+using System.Threading.Channels;
 using System.Threading.Tasks;
+using LjetnaAplikacija.Model;
+using Newtonsoft.Json.Linq;
 
 namespace LjetnaAplikacija
 {
@@ -20,9 +26,36 @@ namespace LjetnaAplikacija
             ObradaProizvodac = new ObradaProizvodac();
             ObradaOptika = new ObradaOptika(this);
             ObradaOruzje = new ObradaOruzje(this);
-            Menu();
+            //UcitajPodatke();
             PrikaziIzbornik();
         }
+
+        //private void UcitajPodatke()
+        //{
+            //string oruzjePath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            //if(File.Exists(Path.Combine(oruzjePath, "Oruzja.json")))
+            //{
+                //StreamReader file = File.OpenText(Path.Combine(oruzjePath, "Oruzja.json"));
+                //ObradaOruzje.Oruzja = JsonConvert.DeserializeObject<List<Oruzje>>(file.ReadToEnd());
+
+            //}
+
+            //string optikaPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            //if (File.Exists(Path.Combine(optikaPath, "Optike.json")))
+            //{
+                //StreamReader file = File.OpenText(Path.Combine(optikaPath, "Optike.json"));
+                //ObradaOptika.Optike = JsonConvert.DeserializeObject<List<Optika>>(file.ReadToEnd());
+
+            //}
+
+            //string proizvodacPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            //if (File.Exists(Path.Combine(proizvodacPath, "Proizvodaci.json")))
+            //{
+               //StreamReader file = File.OpenText(Path.Combine(proizvodacPath, "Proizvodaci.json"));
+                //ObradaProizvodac.Proizvodaci = JsonConvert.DeserializeObject<List<Proizvodac>>(file.ReadToEnd());
+
+            //}
+        //}
 
         private void PrikaziIzbornik()
         {
@@ -36,43 +69,50 @@ namespace LjetnaAplikacija
 
         private void OdabirOpcijeIzbornika()
         {
-            switch(Pomocno.UcitajRasponBroja("Vas odabir: ", 1, 4))
+            switch (Pomocno.UcitajRasponBroja("Vas odabir: ", 1, 4))
             {
                 case 1:
                     Console.Clear();
                     ObradaOruzje.PrikaziIzbornik();
-                    Menu();
                     PrikaziIzbornik();
                     break;
 
                 case 2:
                     Console.Clear();
                     ObradaOptika.PrikaziIzbornik();
-                    Menu();
                     PrikaziIzbornik();
                     break;
 
                 case 3:
                     Console.Clear();
                     ObradaProizvodac.PrikaziIzbornik();
-                    Menu();
                     PrikaziIzbornik();
                     break;
 
                 case 4:
                     Console.WriteLine("Doviđenja!");
+                    //SpremiPodatke();
                     break;
             }
         }
 
-        private void Menu()
-        {
-            Console.WriteLine("-------------------------------");
-            Console.WriteLine("------------Welcome------------");
-            Console.WriteLine("-------------------------------");
-        }
+        //private void SpremiPodatke()
+        //{
+            //if (Pomocno.DEV) return;
+            //string oruzjePath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            //StreamWriter outputFile = new StreamWriter(Path.Combine(oruzjePath, "Oruzja.json"));
+            //outputFile.WriteLine(JsonConvert.SerializeObject(ObradaOruzje.Oruzja));
+            //outputFile.Close();
+
+            //string optikaPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            //StreamWriter outputFile2 = new StreamWriter(Path.Combine(optikaPath, "Optike.json"));
+            //outputFile.WriteLine(JsonConvert.SerializeObject(ObradaOptika.Optike));
+            //outputFile2.Close();
+
+            //string proizvodacPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            //StreamWriter outputFile3 = new StreamWriter(Path.Combine(proizvodacPath, "Proizvodaci.json"));
+            //outputFile.WriteLine(JsonConvert.SerializeObject(ObradaProizvodac.Proizvodaci));
+            //outputFile3.Close();
+        //}
     }
-
-
-
 }

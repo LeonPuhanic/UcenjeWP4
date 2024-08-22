@@ -13,3 +13,6 @@ C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacij
 C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.pdb
 C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.genruntimeconfig.cache
 C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\ref\LjetnaAplikacija.dll
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAplikacija.csproj.AssemblyReference.cache
+C:\Users\Leki\Documents\GitHub\UcenjeWP4\CSHARP\LjetnaAplikacija\LjetnaAplikacija\obj\Debug\net8.0\LjetnaAp.14E181D8.Up2Date
