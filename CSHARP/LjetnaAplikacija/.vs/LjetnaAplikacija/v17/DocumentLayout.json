@@ -3,28 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\izbornik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\izbornik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\zavrsnaapp\\zavrsnaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|solutionrelative:zavrsnaapp\\zavrsnaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\zavrsnaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|solutionrelative:zavrsnaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\zavrsnaapp\\models\\oruzje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|solutionrelative:zavrsnaapp\\models\\oruzje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\zavrsnaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|solutionrelative:zavrsnaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\zavrsnaapp\\models\\entitet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|solutionrelative:zavrsnaapp\\models\\entitet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\zavrsnaapp\\controllers\\oruzjecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|solutionrelative:zavrsnaapp\\controllers\\oruzjecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\zavrsnaapp\\data\\zavrsnacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D26ECA-EC31-416D-B1D6-99A521648FB7}|ZavrsnaAPP\\ZavrsnaAPP.csproj|solutionrelative:zavrsnaapp\\data\\zavrsnacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\model\\entitet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\model\\entitet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\model\\oruzje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\model\\oruzje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E031776-4BA0-43C8-8619-AEBCFBDB1D16}|WebAPI\\WebAPI.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\webapi\\controllers\\httpmetodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E031776-4BA0-43C8-8619-AEBCFBDB1D16}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\httpmetodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E031776-4BA0-43C8-8619-AEBCFBDB1D16}|WebAPI\\WebAPI.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\webapi\\controllers\\models\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E031776-4BA0-43C8-8619-AEBCFBDB1D16}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\models\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E031776-4BA0-43C8-8619-AEBCFBDB1D16}|WebAPI\\WebAPI.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E031776-4BA0-43C8-8619-AEBCFBDB1D16}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\pomocno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\pomocno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\obradaoruzje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\obradaoruzje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\izbornik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\izbornik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\obradaoptika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\obradaoptika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Leki\\AppData\\Local\\SourceServer\\93165532981cedb1f6ed3d32bccd9197dadb226136deda02ef8bd8fd7153804a\\src\\libraries\\System.Private.CoreLib\\src\\Microsoft\\Win32\\SafeHandles\\SafeFileHandle.Windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\model\\entitet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\model\\entitet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\obradaproizvodac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +72,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\model\\optika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\model\\optika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\model\\oruzje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|solutionrelative:ljetnaaplikacija\\model\\oruzje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D47DCC25-69D7-4509-97C9-4D66AD8E0B75}|LjetnaAplikacija\\LjetnaAplikacija.csproj|c:\\users\\leki\\documents\\github\\ucenjewp4\\csharp\\ljetnaaplikacija\\ljetnaaplikacija\\model\\proizvodac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,85 +89,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ObradaOruzje.cs",
-              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\ObradaOruzje.cs",
-              "RelativeDocumentMoniker": "LjetnaAplikacija\\ObradaOruzje.cs",
-              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\ObradaOruzje.cs",
-              "RelativeToolTip": "LjetnaAplikacija\\ObradaOruzje.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAcwHoAAAA6AAAA",
+              "DocumentIndex": 2,
+              "Title": "Oruzje.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\Models\\Oruzje.cs",
+              "RelativeDocumentMoniker": "ZavrsnaAPP\\Models\\Oruzje.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\Models\\Oruzje.cs",
+              "RelativeToolTip": "ZavrsnaAPP\\Models\\Oruzje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T19:10:05.213Z",
+              "WhenOpened": "2024-09-04T18:11:21.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\Program.cs",
+              "RelativeDocumentMoniker": "ZavrsnaAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\Program.cs",
+              "RelativeToolTip": "ZavrsnaAPP\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:36:40.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ZavrsnaAPP\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\appsettings.Development.json",
+              "RelativeToolTip": "ZavrsnaAPP\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T17:55:02.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Izbornik.cs",
-              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Izbornik.cs",
-              "RelativeDocumentMoniker": "LjetnaAplikacija\\Izbornik.cs",
-              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Izbornik.cs",
-              "RelativeToolTip": "LjetnaAplikacija\\Izbornik.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAYwEoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T19:24:04.531Z",
+              "Title": "ZavrsnaAPP.csproj",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\ZavrsnaAPP.csproj",
+              "RelativeDocumentMoniker": "ZavrsnaAPP\\ZavrsnaAPP.csproj",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\ZavrsnaAPP.csproj",
+              "RelativeToolTip": "ZavrsnaAPP\\ZavrsnaAPP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T18:00:08.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ObradaOptika.cs",
-              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\ObradaOptika.cs",
-              "RelativeDocumentMoniker": "LjetnaAplikacija\\ObradaOptika.cs",
-              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\ObradaOptika.cs",
-              "RelativeToolTip": "LjetnaAplikacija\\ObradaOptika.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAUwFQAAAAAAAAA",
+              "Title": "Entitet.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\Models\\Entitet.cs",
+              "RelativeDocumentMoniker": "ZavrsnaAPP\\Models\\Entitet.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\Models\\Entitet.cs",
+              "RelativeToolTip": "ZavrsnaAPP\\Models\\Entitet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T17:41:17.422Z",
+              "WhenOpened": "2024-09-04T18:07:02.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pomocno.cs",
-              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Pomocno.cs",
-              "RelativeDocumentMoniker": "LjetnaAplikacija\\Pomocno.cs",
-              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Pomocno.cs",
-              "RelativeToolTip": "LjetnaAplikacija\\Pomocno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "DocumentIndex": 5,
+              "Title": "OruzjeController.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\Controllers\\OruzjeController.cs",
+              "RelativeDocumentMoniker": "ZavrsnaAPP\\Controllers\\OruzjeController.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\Controllers\\OruzjeController.cs",
+              "RelativeToolTip": "ZavrsnaAPP\\Controllers\\OruzjeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T18:55:55.605Z",
+              "WhenOpened": "2024-09-04T18:18:43.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ObradaProizvodac.cs",
-              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\ObradaProizvodac.cs",
-              "RelativeDocumentMoniker": "LjetnaAplikacija\\ObradaProizvodac.cs",
-              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\ObradaProizvodac.cs",
-              "RelativeToolTip": "LjetnaAplikacija\\ObradaProizvodac.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAiwIMAAAAsAAAA",
+              "Title": "ZavrsnaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\Data\\ZavrsnaContext.cs",
+              "RelativeDocumentMoniker": "ZavrsnaAPP\\Data\\ZavrsnaContext.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\ZavrsnaAPP\\Data\\ZavrsnaContext.cs",
+              "RelativeToolTip": "ZavrsnaAPP\\Data\\ZavrsnaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T17:52:40.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T18:00:47.252Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Optika.cs",
-              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Model\\Optika.cs",
-              "RelativeDocumentMoniker": "LjetnaAplikacija\\Model\\Optika.cs",
-              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Model\\Optika.cs",
-              "RelativeToolTip": "LjetnaAplikacija\\Model\\Optika.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "Entitet.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Model\\Entitet.cs",
+              "RelativeDocumentMoniker": "LjetnaAplikacija\\Model\\Entitet.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Model\\Entitet.cs",
+              "RelativeToolTip": "LjetnaAplikacija\\Model\\Entitet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T19:21:41.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T18:40:08.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Osoba.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\WebAPI\\Controllers\\Models\\Osoba.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\Models\\Osoba.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\WebAPI\\Controllers\\Models\\Osoba.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\Models\\Osoba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:14:32.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:08:47.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HTTPMetodeController.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\WebAPI\\Controllers\\HTTPMetodeController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\HTTPMetodeController.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\WebAPI\\Controllers\\HTTPMetodeController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\HTTPMetodeController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwDYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:52:44.617Z"
             },
             {
               "$type": "Document",
@@ -144,12 +239,71 @@
               "RelativeToolTip": "LjetnaAplikacija\\Model\\Oruzje.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T19:21:44.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T19:21:44.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
+              "Title": "SafeFileHandle.Windows.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\AppData\\Local\\SourceServer\\93165532981cedb1f6ed3d32bccd9197dadb226136deda02ef8bd8fd7153804a\\src\\libraries\\System.Private.CoreLib\\src\\Microsoft\\Win32\\SafeHandles\\SafeFileHandle.Windows.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\93165532981cedb1f6ed3d32bccd9197dadb226136deda02ef8bd8fd7153804a\\src\\libraries\\System.Private.CoreLib\\src\\Microsoft\\Win32\\SafeHandles\\SafeFileHandle.Windows.cs",
+              "ToolTip": "C:\\Users\\Leki\\AppData\\Local\\SourceServer\\93165532981cedb1f6ed3d32bccd9197dadb226136deda02ef8bd8fd7153804a\\src\\libraries\\System.Private.CoreLib\\src\\Microsoft\\Win32\\SafeHandles\\SafeFileHandle.Windows.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\93165532981cedb1f6ed3d32bccd9197dadb226136deda02ef8bd8fd7153804a\\src\\libraries\\System.Private.CoreLib\\src\\Microsoft\\Win32\\SafeHandles\\SafeFileHandle.Windows.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAUwHEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:46:51.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Izbornik.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Izbornik.cs",
+              "RelativeDocumentMoniker": "LjetnaAplikacija\\Izbornik.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Izbornik.cs",
+              "RelativeToolTip": "LjetnaAplikacija\\Izbornik.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:13:46.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pomocno.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Pomocno.cs",
+              "RelativeDocumentMoniker": "LjetnaAplikacija\\Pomocno.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Pomocno.cs",
+              "RelativeToolTip": "LjetnaAplikacija\\Pomocno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:55:55.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ObradaProizvodac.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\ObradaProizvodac.cs",
+              "RelativeDocumentMoniker": "LjetnaAplikacija\\ObradaProizvodac.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\ObradaProizvodac.cs",
+              "RelativeToolTip": "LjetnaAplikacija\\ObradaProizvodac.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAiwIMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:52:40.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Optika.cs",
+              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Model\\Optika.cs",
+              "RelativeDocumentMoniker": "LjetnaAplikacija\\Model\\Optika.cs",
+              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Model\\Optika.cs",
+              "RelativeToolTip": "LjetnaAplikacija\\Model\\Optika.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:21:41.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Proizvodac.cs",
               "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Model\\Proizvodac.cs",
               "RelativeDocumentMoniker": "LjetnaAplikacija\\Model\\Proizvodac.cs",
@@ -157,12 +311,11 @@
               "RelativeToolTip": "LjetnaAplikacija\\Model\\Proizvodac.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T19:21:58.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T19:21:58.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Program.cs",
               "RelativeDocumentMoniker": "LjetnaAplikacija\\Program.cs",
@@ -170,12 +323,11 @@
               "RelativeToolTip": "LjetnaAplikacija\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T19:16:50.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T19:16:50.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "Korisnik.cs",
               "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Model\\Korisnik.cs",
               "RelativeDocumentMoniker": "LjetnaAplikacija\\Model\\Korisnik.cs",
@@ -183,21 +335,7 @@
               "RelativeToolTip": "LjetnaAplikacija\\Model\\Korisnik.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T19:21:35.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Entitet.cs",
-              "DocumentMoniker": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Model\\Entitet.cs",
-              "RelativeDocumentMoniker": "LjetnaAplikacija\\Model\\Entitet.cs",
-              "ToolTip": "C:\\Users\\Leki\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\LjetnaAplikacija\\LjetnaAplikacija\\Model\\Entitet.cs",
-              "RelativeToolTip": "LjetnaAplikacija\\Model\\Entitet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T18:40:08.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T19:21:35.539Z"
             }
           ]
         }
